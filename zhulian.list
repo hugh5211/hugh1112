@@ -10,8 +10,6 @@
 # IP6-CIDR: 1
 # USER-AGENT: 7
 # TOTAL: 196
-HOST,music.youtube.com,YouTube
-HOST,youtubei.googleapis.com,YouTube
-HOST,yt3.ggpht.com,YouTube
+HOST,ip.sb,
 HOST-SUFFIX,ip.sb,zhilian
 HOST-SUFFIX,
