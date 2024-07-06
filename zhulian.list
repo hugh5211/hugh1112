@@ -1,8 +1,6 @@
 # China Area Network
 HOST-SUFFIX, flyert.com, DIRECT
 HOST-SUFFIX, gandi.net, DIRECT
-HOST-SUFFIX, cloudflare.com, DIRECT
-HOST-SUFFIX, ip.sb, DIRECT
 HOST-SUFFIX, snapdrop.net, DIRECT
 HOST, download.jetbrains.com, DIRECT
 HOST, origin-a.akamaihd.ne, DIRECT
