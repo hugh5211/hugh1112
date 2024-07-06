@@ -1,0 +1,17 @@
+# NAME: zhilian
+# AUTHOR: hugh5211
+# REPO: https://github.com/5211
+# UPDATED: 2024-07-03 16:14:51
+# HOST: 3
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 179
+# HOST-WILDCARD: 3
+# IP-CIDR: 2
+# IP6-CIDR: 1
+# USER-AGENT: 7
+# TOTAL: 196
+HOST,music.youtube.com,YouTube
+HOST,youtubei.googleapis.com,YouTube
+HOST,yt3.ggpht.com,YouTube
+HOST-SUFFIX,ip.sb,zhilian
+HOST-SUFFIX,
